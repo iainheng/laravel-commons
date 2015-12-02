@@ -1,5 +1,5 @@
 {
-    "name": "iainh/laravel-commons",
+    "name": "iainheng/laravel-commons",
     "description": "Laravel common libraries and helpers",
     "keywords": [],
     "license": "MIT",
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Iainh\\LaravelCommons\\": "src"
+            "Iainheng\\LaravelCommons\\": "src"
         }
     },
     "extra": {
