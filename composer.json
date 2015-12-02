@@ -1,0 +1,31 @@
+{
+    "name": "iainh/laravel-commons",
+    "description": "Laravel common libraries and helpers",
+    "keywords": [],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Iain Heng",
+            "email": "hengcs@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "5.1.x"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "4.0.*"
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Iainh\\LaravelCommons\\": "src"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
