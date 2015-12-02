@@ -27,5 +27,6 @@ class Date
         if(!$format) $format = 'd/m/Y';
 
         return date($format, strtotime($string_date));
+        
     }
 }
