@@ -8,7 +8,7 @@
  * @link      https://github.com/hengcs/laravel-commons
  */
 
-namespace Iainheng\LaravelCommons\Support;
+namespace Iainheng\Laravel\Support;
 
 
 class Date
